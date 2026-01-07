@@ -1,0 +1,12 @@
+{"businesses":[
+  {
+    "business_id":"biz001",
+    "business_name":"Clinique du Centre",
+    "business_type":"Clinic",
+    "services":["Consultation","Check-up"],
+    "hours":"9:00-18:00",
+    "contact_channels":["WhatsApp","Instagram","Website"],
+    "booking_options":["Link","WhatsApp","Call"],
+    "languages":["French","Darija","English"]
+  }
+]}
